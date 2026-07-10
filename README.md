@@ -1,23 +1,9 @@
-<!-- ===== BANNER (mint sáng, chữ trắng, dùng chung cho cả 2 theme) ===== -->
+<!-- ===== HEADER: CHỮ CHẠY BẰNG Ô CONTRIBUTION (typograssy) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:20B896,100:38ef7d&height=220&section=header&text=khangksp&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descAlign=50" />
+  <img alt="Xin chao toi la Duy Khang" src="https://typograssy.deno.dev/api?text=Xin%20chao%20toi%20la%20Duy%20Khang&l0=none&l1=7ef5c9&l2=00f7a5&l3=00b37e&l4=047857&bg=none&frame=none&speed=100" />
 </p>
-
-<!-- ===== CHỮ GÕ MÁY (tự đổi màu theo Dark/Light) ===== -->
 <p align="center">
-  <a href="https://github.com/khangksp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7A5&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Khang+%F0%9F%91%8B;Backend+%26+AI+Developer;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+m%E1%BB%97i+ng%C3%A0y" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00B37E&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Khang+%F0%9F%91%8B;Backend+%26+AI+Developer;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+m%E1%BB%97i+ng%C3%A0y" />
-    </picture>
-  </a>
-</p>
-
-<!-- ===== BADGE XEM / FOLLOW / STAR ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khangksp&label=Profile%20views&color=00B37E&style=flat" />
-  <img src="https://img.shields.io/github/followers/khangksp?label=Followers&style=flat&color=00B37E&labelColor=555555" />
-  <img src="https://img.shields.io/github/stars/khangksp?label=Stars&style=flat&color=00B37E&labelColor=555555" />
+  <img alt="Backend and AI Developer" src="https://typograssy.deno.dev/api?text=Backend%20%26%20AI%20Developer&l0=none&l1=7ef5c9&l2=00f7a5&l3=00b37e&l4=047857&bg=none&frame=none&speed=100" />
 </p>
 
 <!-- ===== ĐƯỜNG KẺ MINT (hợp cả 2 theme) ===== -->
