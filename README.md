@@ -1,9 +1,6 @@
-<!-- ===== HEADER: CHỮ CHẠY BẰNG Ô CONTRIBUTION (typograssy) ===== -->
+<!-- ===== HEADER: CHỮ CHẠY BẰNG Ô CONTRIBUTION (typograssy) - 1 ảnh, cuộn tuần tự, chậm, bỏ watermark ===== -->
 <p align="center">
-  <img alt="Xin chao toi la Duy Khang" src="https://typograssy.deno.dev/api?text=Xin%20chao%20toi%20la%20Duy%20Khang&l0=none&l1=7ef5c9&l2=00f7a5&l3=00b37e&l4=047857&bg=none&frame=none&speed=100" />
-</p>
-<p align="center">
-  <img alt="Backend and AI Developer" src="https://typograssy.deno.dev/api?text=Backend%20%26%20AI%20Developer&l0=none&l1=7ef5c9&l2=00f7a5&l3=00b37e&l4=047857&bg=none&frame=none&speed=100" />
+  <img alt="Xin chao toi la Duy Khang - Backend and AI Developer" src="https://typograssy.deno.dev/api?text=Xin%20chao%20toi%20la%20Duy%20Khang%20%20%20%20%20%20Backend%20and%20AI%20Developer%20%20%20%20%20%20&l0=none&l1=7ef5c9&l2=00f7a5&l3=00b37e&l4=047857&bg=none&frame=none&speed=200&comment=" />
 </p>
 
 <!-- ===== ĐƯỜNG KẺ MINT (hợp cả 2 theme) ===== -->
