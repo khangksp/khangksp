@@ -13,14 +13,18 @@
 <!-- ===== BADGE ĐẾM LƯỢT XEM + FOLLOW + STAR ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khangksp&label=Profile%20views&color=00F7A5&style=flat" />
-  <img src="https://img.shields.io/github/followers/khangksp?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/khangksp?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/khangksp?label=Followers&style=flat&color=00F7A5&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/khangksp?label=Stars&style=flat&color=00F7A5&labelColor=0d1117" />
 </p>
 
 <!-- ===== ĐƯỜNG KẺ CẦU VỒNG ĐỘNG ===== -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## 🧑‍💻 Về mình
+<!-- ===== VỀ MÌNH ===== -->
+<h2 align="center">
+  <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2300F7A5" width="28" height="28" />
+  &nbsp;Về mình
+</h2>
 
 ```yaml
 name: Khang
@@ -31,19 +35,36 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 ```
 
 <!-- ===== CON RẮN ĂN CONTRIBUTION (cần GitHub Action, xem snake.yml) ===== -->
-## 🐍 Con rắn ăn contribution
+<h2 align="center">
+  <img src="https://api.iconify.design/game-icons/snake.svg?color=%2300F7A5" width="28" height="28" />
+  &nbsp;Con rắn ăn contribution
+</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khangksp/khangksp/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khangksp/khangksp/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khangksp/khangksp/output/snake-light.svg" />
+    <img alt="Con rắn ăn biểu đồ contribution" src="https://raw.githubusercontent.com/khangksp/khangksp/output/snake.svg" />
+  </picture>
 </p>
 
 <!-- ===== BIỂU ĐỒ HOẠT ĐỘNG ===== -->
-## 📈 Biểu đồ hoạt động
+<h2 align="center">
+  <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2300F7A5" width="28" height="28" />
+  &nbsp;Biểu đồ hoạt động
+</h2>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khangksp&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7A5&line=00F7A5&point=ffffff)](https://github.com/khangksp)
+<p align="center">
+  <a href="https://github.com/khangksp">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangksp&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7A5&line=00F7A5&point=ffffff" width="95%" />
+  </a>
+</p>
 
 <!-- ===== LIÊN HỆ ===== -->
-## 📫 Kết nối với mình
+<h2 align="center">
+  <img src="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300F7A5" width="28" height="28" />
+  &nbsp;Kết nối với mình
+</h2>
 
 <p align="center">
   <a href="mailto:khangksp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
