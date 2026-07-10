@@ -36,11 +36,10 @@
 </h2>
 
 ```yaml
-name: Khang
+name: Nguyen Quoc Duy Khang
 role: Backend / AI Developer
 location: Ho Chi Minh City, Vietnam
 currently_learning: [Kubernetes, LLM, System Design]
-fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 ```
 
 <!-- ===== CON RẮN (tự đổi màu theo Dark/Light, cần GitHub Action - xem snake.yml) ===== -->
