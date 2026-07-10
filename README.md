@@ -31,8 +31,8 @@
 <!-- ===== VỀ MÌNH ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/account-circle.svg?color=%2300F7A5&width=28" />
-    <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2300B37E&width=28" width="28" height="28" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/account-circle.svg?color=%2300F7A5&width=20" />
+    <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2300B37E&width=20" width="20" height="20" />
   </picture>
   &nbsp;Về mình
 </h2>
@@ -48,8 +48,8 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 <!-- ===== CON RẮN (tự đổi màu theo Dark/Light, cần GitHub Action - xem snake.yml) ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/game-icons/snake.svg?color=%2300F7A5&width=28" />
-    <img src="https://api.iconify.design/game-icons/snake.svg?color=%2300B37E&width=28" width="28" height="28" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/game-icons/snake.svg?color=%2300F7A5&width=20" />
+    <img src="https://api.iconify.design/game-icons/snake.svg?color=%2300B37E&width=20" width="20" height="20" />
   </picture>
   &nbsp;Con rắn ăn contribution
 </h2>
@@ -65,8 +65,8 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 <!-- ===== BIỂU ĐỒ HOẠT ĐỘNG (nền hòa vào theme, không còn hộp đen) ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-line.svg?color=%2300F7A5&width=28" />
-    <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2300B37E&width=28" width="28" height="28" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-line.svg?color=%2300F7A5&width=20" />
+    <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2300B37E&width=20" width="20" height="20" />
   </picture>
   &nbsp;Biểu đồ hoạt động
 </h2>
@@ -83,21 +83,23 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 <!-- ===== LIÊN HỆ ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300F7A5&width=28" />
-    <img src="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300B37E&width=28" width="28" height="28" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300F7A5&width=20" />
+    <img src="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300B37E&width=20" width="20" height="20" />
   </picture>
   &nbsp;Kết nối với mình
 </h2>
 
 <p align="center">
-  <a href="mailto:khangksp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/khangksp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:khangksp@gmail.com" title="Gmail">
+    <img src="https://api.iconify.design/logos/google-gmail.svg?height=44" height="44" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/khangksp" title="Facebook">
+    <img src="https://api.iconify.design/logos/facebook.svg?height=44" height="44" />
+  </a>
 </p>
 
-<!-- ===== FOOTER (tự đổi màu theo Dark/Light) ===== -->
+<!-- ===== FOOTER (mint sáng, hợp cả 2 theme) ===== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F7A5&height=120&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6FFF7,100:00C88A&height=120&section=footer" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C88A,50:00F7A5,100:1DE9B6&height=120&section=footer" />
 </p>
