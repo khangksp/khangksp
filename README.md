@@ -1,9 +1,6 @@
-<!-- ===== BANNER (tự đổi màu theo Dark/Light) ===== -->
+<!-- ===== BANNER (mint sáng, chữ trắng, dùng chung cho cả 2 theme) ===== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F7A5&height=220&section=header&text=khangksp&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6FFF7,100:00C88A&height=220&section=header&text=khangksp&fontSize=75&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descAlign=50" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:20B896,100:38ef7d&height=220&section=header&text=khangksp&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- ===== CHỮ GÕ MÁY (tự đổi màu theo Dark/Light) ===== -->
@@ -28,13 +25,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7A5,50:1DE9B6,100:00F7A5&height=3" />
 </p>
 
-<!-- ===== VỀ MÌNH ===== -->
+<!-- ===== VỀ MÌNH (icon trên - chữ dưới, căn giữa chuẩn) ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/account-circle.svg?color=%2300F7A5&width=20" />
-    <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2300B37E&width=20" width="20" height="20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/account-circle.svg?color=%2300F7A5&width=30" />
+    <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2300B37E&width=30" width="30" height="30" />
   </picture>
-  &nbsp;Về mình
+  <br />
+  Về mình
 </h2>
 
 ```yaml
@@ -48,10 +46,11 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 <!-- ===== CON RẮN (tự đổi màu theo Dark/Light, cần GitHub Action - xem snake.yml) ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/game-icons/snake.svg?color=%2300F7A5&width=20" />
-    <img src="https://api.iconify.design/game-icons/snake.svg?color=%2300B37E&width=20" width="20" height="20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/game-icons/snake.svg?color=%2300F7A5&width=30" />
+    <img src="https://api.iconify.design/game-icons/snake.svg?color=%2300B37E&width=30" width="30" height="30" />
   </picture>
-  &nbsp;Con rắn ăn contribution
+  <br />
+  Con rắn ăn contribution
 </h2>
 
 <p align="center">
@@ -65,10 +64,11 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 <!-- ===== BIỂU ĐỒ HOẠT ĐỘNG (nền hòa vào theme, không còn hộp đen) ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-line.svg?color=%2300F7A5&width=20" />
-    <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2300B37E&width=20" width="20" height="20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-line.svg?color=%2300F7A5&width=30" />
+    <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2300B37E&width=30" width="30" height="30" />
   </picture>
-  &nbsp;Biểu đồ hoạt động
+  <br />
+  Biểu đồ hoạt động
 </h2>
 
 <p align="center">
@@ -80,23 +80,20 @@ fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
   </a>
 </p>
 
-<!-- ===== LIÊN HỆ ===== -->
+<!-- ===== LIÊN HỆ (bỏ khoảng trắng trong <a> để hết dấu "_" gạch chân) ===== -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300F7A5&width=20" />
-    <img src="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300B37E&width=20" width="20" height="20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300F7A5&width=30" />
+    <img src="https://api.iconify.design/mdi/email-fast-outline.svg?color=%2300B37E&width=30" width="30" height="30" />
   </picture>
-  &nbsp;Kết nối với mình
+  <br />
+  Kết nối với mình
 </h2>
 
 <p align="center">
-  <a href="mailto:khangksp@gmail.com" title="Gmail">
-    <img src="https://api.iconify.design/logos/google-gmail.svg?height=44" height="44" />
-  </a>
+  <a href="mailto:khangksp@gmail.com" title="Gmail"><img src="https://api.iconify.design/logos/google-gmail.svg?height=44" height="44" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/khangksp" title="Facebook">
-    <img src="https://api.iconify.design/logos/facebook.svg?height=44" height="44" />
-  </a>
+  <a href="https://www.facebook.com/khangksp" title="Facebook"><img src="https://api.iconify.design/logos/facebook.svg?height=44" height="44" /></a>
 </p>
 
 <!-- ===== FOOTER (mint sáng, hợp cả 2 theme) ===== -->
