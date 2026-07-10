@@ -30,32 +30,6 @@ currently_learning: [Kubernetes, LLM, System Design]
 fun_fact: "Mình debug bằng print() và không thấy xấu hổ."
 ```
 
-<!-- ===== ICON CÔNG NGHỆ (skillicons.dev) ===== -->
-## 🛠️ Công nghệ mình dùng
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nodejs,fastapi,flask,docker,kubernetes,postgres,mongodb,redis,git,linux&perline=8" />
-</p>
-
-<!-- ===== THẺ THỐNG KÊ ===== -->
-## 📊 Thống kê GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khangksp&show_icons=true&count_private=true&hide_border=true&title_color=00F7A5&icon_color=00F7A5&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangksp&layout=compact&hide_border=true&title_color=00F7A5&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangksp&hide_border=true&background=0d1117&stroke=00F7A5&ring=00F7A5&fire=FF6B6B&currStreakLabel=00F7A5" />
-</p>
-
-<!-- ===== CÚP THÀNH TÍCH ===== -->
-## 🏆 Thành tích
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khangksp&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
 <!-- ===== CON RẮN ĂN CONTRIBUTION (cần GitHub Action, xem snake.yml) ===== -->
 ## 🐍 Con rắn ăn contribution
 
